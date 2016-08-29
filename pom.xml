@@ -15,4 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <scm>
+    <connection>scm:git:git@github.com:slattumwr/maven-tests.git</connection>
+    <url>scm:git:git@github.com:slattumwr/maven-tests.git</url>
+    <developerConnection>scm:git:git@github.com:slattumwr/maven-tests.git</developerConnection>
+  </scm>
 </project>
